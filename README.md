@@ -1,4 +1,4 @@
-# Statistical-Trends-of-the-Secondhand-GPU-Market
+# Statistical Trends of the Secondhand GPU Market
 Research paper presented in fulfillment of YU MAT5999 Computational Statistics and Probability final project.
 
 ## Quickstart
